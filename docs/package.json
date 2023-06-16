@@ -1,7 +1,7 @@
 {
   "name": "vuepress-panling",
   "version": "1.0.0",
-  "description": "PANLING WIKI",
+  "description": "PANLING GUIDE",
   "license": "Apache License 2.0",
   "type": "module",
   "scripts": {

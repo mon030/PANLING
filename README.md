@@ -21,6 +21,6 @@ pnpm docs:dev
 ### Compiles and minifies for production
 
 ```
-vuepress build src -d .vuepress/dist
+pnpm docs:build
 ```
 

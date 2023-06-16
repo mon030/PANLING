@@ -36,13 +36,18 @@ features:
 
   - title: 道具图鉴
     icon: solar:box-bold-duotone
-    details: 这个有什么用?能吃吗?
+    details: 长生锁到底要怎么开呀：>
     link: /items/
 
   - title: 剧情记录
     icon: solar:notebook-bookmark-line-duotone
     details: 收录了盘灵大陆所发生的各种事
     link: /stories/
+
+  - title: 大陆地图
+    icon: solar:map-bold-duotone
+    details: 标记了盘古大陆里一些知名景点的坐标
+    link: /maps/
 
   - title: 服务器
     icon: solar:server-bold-duotone
@@ -56,7 +61,7 @@ features:
 
   - title: 贡献列表
     icon: pajamas:first-contribution
-    details: 看看有哪些大佬共享了内容
+    details: 看看有哪些大佬贡献了内容
     link: /other/contribution
 
   - title: 关于我们
