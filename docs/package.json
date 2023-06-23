@@ -21,5 +21,9 @@
     "vuepress-theme-hope": "2.0.0-beta.220"
   },
   "main": "index.js",
-  "author": "Len"
+  "author": "Len",
+  "dependencies": {
+    "jquery": "^3.7.0",
+    "minecraft-text-js": "^1.1.3"
+  }
 }

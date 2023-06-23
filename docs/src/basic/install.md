@@ -6,6 +6,7 @@ editLink: false
 author: "Len"
 category:
   - 使用指南
+sidebar: heading
 ---
 
 ## 地图安装

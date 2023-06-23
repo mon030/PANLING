@@ -31,7 +31,12 @@ export default defineUserConfig({
        googleAnalyticsPlugin({
       id: 'G-EFWFD2M8G0',
     }),
+    
   ],
+  
+    sidebar: "heading",
+
+
   // Enable it with pwa
   // shouldPrefetch: false,
 });
