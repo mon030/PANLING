@@ -44,5 +44,5 @@ category:
 
 ::::::
 
- <div id="minecraft-text">这些拿去吧,到§2§o资源中心§0去换些衣服,别光溜溜的走来走去,丢§0§n我族§0的脸.领完东西就回来.
-Hello, &4World&c!</div>
+
+
