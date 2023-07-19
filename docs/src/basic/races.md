@@ -6,6 +6,8 @@ editLink: false
 author: "Len"
 category:
   - 基础教程
+prev: ./start
+next: ./jobs
 ---
 ::: tabs#Races
 

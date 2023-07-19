@@ -6,7 +6,7 @@ import { componentsPlugin } from "vuepress-plugin-components";
 
 
 export default hopeTheme({
-  hostname: "https://pan-gu.eu.org",
+  hostname: "https://panling.link",
 
   author: {
     name: "",
@@ -17,7 +17,7 @@ export default hopeTheme({
 
     logo: "images/logo.png",
 
-  // repo: "mon030/panlin-wiki",
+  // repo: "mon030/PANLING",
   // docsDir: "docs/src",
   // docsBranch: 'main',
     contributors: false,
@@ -89,14 +89,15 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
         serverURL: 'https://c.3onem.eu.org',
-        recaptchaV3Key: '6LcdIwoiAAAAADHQnFUYU-BMkPcA8zhZ9rfGt8kA',
+        recaptchaV3Key: '6LcdIwoiAAAAAMQbdZ_wH5PVBeIwJPYbTCuOVaxM',
         pageview: true,
         reaction: true,
     },
     
 
 
-	 copyright: false,
+
+	 copyright: true,
      
          feed: {
       atom: true,
