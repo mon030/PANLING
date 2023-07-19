@@ -4,7 +4,4 @@ index: true
 icon: discover
 category:
   - 新手教程
-comment: false
 ---
-
-<AutoCatalog />
