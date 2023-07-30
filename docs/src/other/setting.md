@@ -46,3 +46,19 @@ category:
 
 
 
+::: details Minecraft版本
+
+::: tabs#Version
+
+@tab 1.19.X
+
+适配数据包版本1.0
+
+@tab 1.20.X
+
+适配数据包版本1.0+
+
+::::::
+
+
+
