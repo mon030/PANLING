@@ -6,6 +6,7 @@ editLink: false
 author: "Len"
 category:
   - 关于本站
+comment: false
 ---
 
 #  盘灵古域攻略站&Wiki设置终端

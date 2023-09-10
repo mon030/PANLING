@@ -52,7 +52,7 @@ features:
   - title: 服务器
     icon: solar:server-bold-duotone
     details: 一个人玩觉得无聊?加入服务器一起玩吧
-    link: /servers/
+    link: https://servers.panling.link
 
   - title: 服务器DLC内容
     icon: solar:add-circle-bold-duotone

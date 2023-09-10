@@ -7,7 +7,7 @@ author: "Len"
 category:
   - 基础教程
 prev: ./races
-next: false
+next: ./training
 ---
 
 
