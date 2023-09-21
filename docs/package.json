@@ -11,18 +11,19 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.62",
-    "@vuepress/plugin-google-analytics": "2.0.0-beta.62",
+    "@vuepress/client": "2.0.0-beta.67",
+    "@vuepress/plugin-google-analytics": "2.0.0-beta.67",
     "vue": "^3.3.4",
-    "vuepress": "2.0.0-beta.62",
-    "vuepress-plugin-comment2": "2.0.0-beta.220",
-    "vuepress-plugin-components": "2.0.0-beta.220",
+    "vuepress": "2.0.0-beta.67",
+    "vuepress-plugin-comment2": "2.0.0-beta.237",
+    "vuepress-plugin-components": "2.0.0-beta.237",
     "vuepress-plugin-google-adsense2": "1.0.2",
-    "vuepress-theme-hope": "2.0.0-beta.220"
+    "vuepress-plugin-search-pro": "2.0.0-beta.237",
+    "vuepress-theme-hope": "2.0.0-beta.237"
   },
   "main": "index.js",
   "author": "Len",
   "dependencies": {
-    "jquery": "^3.7.0"
+    "jquery": "^3.7.1"
   }
 }
