@@ -11,7 +11,7 @@ actions:
     type: primary
 
   - text: 公开服务器
-    link: /servers/
+    link: https://servers.panling.link
 
 features:
   - title: 下载资源
