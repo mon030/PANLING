@@ -6,6 +6,7 @@ import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
 
 
 
@@ -32,6 +33,11 @@ export default defineUserConfig({
        googleAnalyticsPlugin({
       id: 'G-EFWFD2M8G0',
     }),
+    
+		googleAdSensePlugin({
+      id: "ca-pub-2860229584748328",
+    }),
+    
     searchProPlugin({
       // 索引全部内容
       indexContent: true,

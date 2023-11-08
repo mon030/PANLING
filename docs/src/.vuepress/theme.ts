@@ -96,7 +96,6 @@ export default hopeTheme({
     
 
 
-
 	 copyright: true,
      
          feed: {
