@@ -12,21 +12,22 @@ category:
 
 ```markdown
 
-![人族种族证明](https://s2.loli.net/2023/06/23/Dprwtn938VxLKFQ.png)
+![人族种族证明](/assets/panling/certificate/ren.png)
 ```
 
 ```markdown
-![神族种族证明](https://s2.loli.net/2023/06/23/Q3DJ4qogTfUFud1.png)
+![神族种族证明](/assets/panling/certificate/shen.png)
 ```
 
 ```markdown
-![妖族种族证明](https://s2.loli.net/2023/06/23/MiWUdm5QALhtoKF.png)
+![妖族种族证明](/assets/panling/certificate/yao.png)
 ```
 
 ```markdown
-![仙族种族证明](https://s2.loli.net/2023/06/23/VL2zvoPbJhmcpeK.png)
+![仙族种族证明](/assets/panling/certificate/xian.png)
 ```
 
 ```markdown
-![战神族种族证明](https://s2.loli.net/2023/06/23/FcImrG7zEYq8sZb.png)
+![战神族种族证明](/assets/panling/certificate/zhan.png)
 ```
+

@@ -13,7 +13,7 @@ next: ./jobs
 
 @tab 人族
 
-![人族种族证明](https://s2.loli.net/2023/06/23/Dprwtn938VxLKFQ.png)
+![人族种族证明](/assets/panling/certificate/ren.png)
 
 人族虽然并不像其他种族那么强壮，但是却主宰了这个大陆上大部分的地区
 
@@ -48,7 +48,7 @@ next: ./jobs
 
 @tab 仙族
 
-![仙族种族证明](https://s2.loli.net/2023/06/23/VL2zvoPbJhmcpeK.png)
+![仙族种族证明](/assets/panling/certificate/xian.png)
 
 有些人类发现，只要修炼之后，就能获得强大的能力,并延年益寿
 
@@ -81,7 +81,7 @@ next: ./jobs
 
 @tab 神族
 
-![神族种族证明](https://s2.loli.net/2023/06/23/Q3DJ4qogTfUFud1.png)
+![神族种族证明](/assets/panling/certificate/shen.png)
 
 神族是上古神衹「**盘古**」的后裔，寿命与天地共享。
 
@@ -119,7 +119,7 @@ next: ./jobs
 
 @tab 妖族
 
-![妖族种族证明](https://s2.loli.net/2023/06/23/MiWUdm5QALhtoKF.png)
+![妖族种族证明](/assets/panling/certificate/yao.png)
 
 妖族是一个崇尚自然的种族，是集日月精华所生，认为所有的事物都要遵循世界的规则和循环。
 
@@ -154,7 +154,7 @@ next: ./jobs
 
 @tab 战神族
 
-![战神族种族证明](https://s2.loli.net/2023/06/23/FcImrG7zEYq8sZb.png)
+![战神族种族证明](/assets/panling/certificate/zhan.png)
 
 战神族是隐蔽且谨慎的一族，大陆上除了妖族之外几乎没有人知道他们的存在
 
