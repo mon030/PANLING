@@ -54,10 +54,6 @@ features:
     details: 一个人玩觉得无聊?加入服务器一起玩吧
     link: https://servers.panling.link
 
-  - title: 服务器DLC内容
-    icon: solar:add-circle-bold-duotone
-    details: 服务器DLC内容不会玩可以来这找教程
-    link: /servers/dlc
 
   - title: 贡献列表
     icon: pajamas:first-contribution

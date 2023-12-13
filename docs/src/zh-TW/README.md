@@ -7,62 +7,63 @@ heroText: 盤靈古域WIKI
 tagline: 盤靈古域WIKI&攻略站
 actions:
   - text: 新手教程 💡
-    link: /basic/start/
+    link: ./basic/start/
     type: primary
 
-  - text: 公開服務器
-    link: /servers/
+  - text: 公開伺服器
+    link: https://servers.panling.link
 
 features:
   - title: 下載資源
     icon: solar:archive-down-minimlistic-bold
     details: 下載盤靈古域原版地圖,夢回盤靈數據包及其材質包。
-    link: /other/download/
+    link: ./other/download/
 
   - title: 新手教程
     icon: mdi:teach
     details: 適合第一次接觸盤靈古域的萌新
-    link: /basic/start/
+    link: ./basic/start/
 
   - title: 進階內容
     icon: mdi:one-up
     details: 提供各種技巧給玩家
-    link: https://theme-hope.vuejs.press/zh/guide/layout/
+    link: ./advanced/
 
   - title: 武器&裝備圖鑒
-    icon: game-icons:abdominal-armor
-    details: 配合 Waline 來開啟閱讀量統計與評論支持
-    link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
+    icon: ph:sword-duotone
+    details: 了解各種武器和裝備
+    link: ./equipment/
 
   - title: 道具圖鑒
     icon: solar:box-bold-duotone
-    details: 長生鎖要怎麽開啊?
-    link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+    details: 長生鎖到底要怎麽開呀：>
+    link: ./items/
 
   - title: 劇情記錄
     icon: solar:notebook-bookmark-line-duotone
     details: 收錄了盤靈大陸所發生的各種事
-    link: https://theme-hope.vuejs.press/zh/guide/blog/intro.html
+    link: ./stories/
 
-  - title: 服務器
+  - title: 大陸地圖
+    icon: solar:map-bold-duotone
+    details: 標記了盤古大陸裏一些知名景點的坐標
+    link: ./maps/
+
+  - title: 伺服器
     icon: solar:server-bold-duotone
-    details: 一個人玩覺得無聊?加入服務器一起玩吧
-    link: https://theme-hope.vuejs.press/zh/guide/interface/theme-color.html
+    details: 一個人玩覺得無聊?加入伺服器一起玩吧
+    link: https://servers.panling.link
 
-  - title: 服務器DLC內容
-    icon: solar:add-circle-bold-duotone
-    details: 服務器DLC內容不會玩可以來這找教程
-    link: /servers/dlc
 
   - title: 貢獻列表
     icon: pajamas:first-contribution
-    details: 看看有哪些大佬共享了內容
-    link: /other/
+    details: 看看有哪些大大貢獻了內容
+    link: ./other/contribution
 
   - title: 關於我們
     icon: solar:info-circle-broken
     details: 了解更多有關盤靈古域攻略站的內容
-    link: /other/about/
+    link: ./other/about
 
   
 copyright: false
