@@ -1,18 +1,13 @@
 ---
-title: 剧情记录
+title: INDEX
 index: false
 icon: solar:notebook-bookmark-line-duotone
 editLink: false
 author: "Len"
 category:
-  - 剧情记录
-
+  - 其他
 ---
 
-#  盘灵古域剧情记录
-
-------
 
 
-
-<AutoCatalog/>
+<AutoCatalog base="/" />
