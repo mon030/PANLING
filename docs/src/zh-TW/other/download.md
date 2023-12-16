@@ -22,7 +22,7 @@ category:
 
 下載源:
 
- [官方](https://search.mcbbs.net/plugin.php?id=link_redirect&target=http%3A%2F%2Fpan-gu-continent.blogspot.tw%2F)
+ [官方](https://pan-gu-continent.blogspot.com/p/download.html)
 
 [百度盤靈古域吧 (官方授權補檔)](https://tieba.baidu.com/p/6132497097?pn=1)
 
@@ -34,7 +34,7 @@ category:
 
 下載源:
 
-[官方](http://pan-gu-continent.blogspot.com/)
+[官方](https://pan-gu-continent.blogspot.com/p/download.html)
 
 [百度盤靈古域吧 (官方授權補檔)](https://tieba.baidu.com/p/6132497097?pn=1)
 

@@ -86,5 +86,10 @@ footer: <p xmlns:cc="http://creativecommons.org/ns#" >We are licensed under <a h
 
 :::
 
-<YouTube id="-vxhlpsv1jw" />
+
+
+<VidStack
+  src="youtube/-vxhlpsv1jw"
+  title="盤靈古域60秒官方宣傳片"
+/>
 

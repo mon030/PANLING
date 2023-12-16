@@ -74,6 +74,7 @@ export default hopeTheme({
        components: {
         // 你想使用的组件
         components: [
+          "VidStack",
           "AudioPlayer",
           "Badge",
           "BiliBili",
@@ -81,8 +82,7 @@ export default hopeTheme({
           "PDF",
           "Replit",
           "StackBlitz",
-          "VideoPlayer",
-          "YouTube",
+          
         ],
       },
       
@@ -122,7 +122,7 @@ export default hopeTheme({
       include: true,
       katex: true,
       mark: true,
-      card: true,
+      VPCard: true,
       mermaid: true,
       playground: {
         presets: ["ts", "vue"],
