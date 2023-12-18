@@ -82,6 +82,10 @@ export default hopeTheme({
           "PDF",
           "Replit",
           "StackBlitz",
+          "VPCard",
+          "VPBanner",
+		  "SiteInfo",
+
           
         ],
       },
