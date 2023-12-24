@@ -11,7 +11,7 @@ category:
 title="皇城"
 desc="茶馆、铁匠铺、"
 logo ="https://s2.loli.net/2023/09/10/OLynoTQ4D5RV3vq.png"
-link:="./ImperialCity/"
+link ="./ImperialCity/"
 background ="rgba(253, 230, 138, 0.15)"
 />
 

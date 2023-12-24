@@ -91,7 +91,7 @@ export default hopeTheme({
       },
       
     comment: {
-      provider: "Waline",
+        provider: "Waline",
         serverURL: "https://c.3onem.eu.org",
         recaptchaV3Key: "6LcdIwoiAAAAAMQbdZ_wH5PVBeIwJPYbTCuOVaxM",
         pageview: true,
@@ -131,9 +131,7 @@ export default hopeTheme({
       playground: {
         presets: ["ts", "vue"],
       },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      revealJs: true,
       stylize: [
         {
           matcher: "Recommended",
