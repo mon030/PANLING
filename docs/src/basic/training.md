@@ -26,6 +26,12 @@ next: ./bg-intro
 
 ------
 
+### 告示牌
+
+![sign.png](https://img06.mifile.cn/v1/MI_542ED8B1722DC/ef362a1aaaab6b96f95f80be1bd62430.png)
+
+------
+
 ![重生平台](https://img03.mifile.cn/v1/MI_542ED8B1722DC/cb50029b091bc37ed46f1c61f78313e2.png)
 
 ### 重生平台
@@ -43,5 +49,13 @@ next: ./bg-intro
 重生点设置后会提示[<span style="color: #55FF55;">重生石已记忆此位置</span>]
 
 ------
+
+### 装备锻造台
+
+![装备锻造台UI](https://img06.mifile.cn/v1/MI_542ED8B1722DC/5f176a8974f453b4958f5223fe773566.png)
+
+这个是装备锻造台，将材料按照正确的摆放顺序(见图示)摆放后点击装备锻造台上方的按钮即可进行锻造。
+
+具体使用方法请查阅<span style="color: #FFAA00;">铁匠铺锻造设备使用说明</span>
 
 :::
