@@ -59,6 +59,10 @@ features:
     details: 一个人玩觉得无聊?加入服务器一起玩吧
     link: https://servers.panling.link
 
+  - title: 爱发电
+    icon: fa-solid:donate
+    details: 谢谢老板qwq
+    link: https://afdian.net/a/Huazi0w0
 
   - title: 贡献列表
     icon: pajamas:first-contribution

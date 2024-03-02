@@ -2,9 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { defaultTheme } from "@vuepress/theme-default";
 import { commentPlugin } from "vuepress-plugin-comment2";
-import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
 
