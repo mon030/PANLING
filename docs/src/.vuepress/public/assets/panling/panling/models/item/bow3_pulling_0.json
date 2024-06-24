@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "panling:item/bow3_pulling_0"
+    }
+}
