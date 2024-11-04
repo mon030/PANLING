@@ -75,7 +75,6 @@ export default hopeTheme({
         // 你想使用的组件
         components: [
           "VidStack",
-          "AudioPlayer",
           "Badge",
           "BiliBili",
           "CodePen",
@@ -103,29 +102,29 @@ export default hopeTheme({
 	 copyright: true,
      
 
-    
+        markdownImage: {
+        figure: true,
+        lazyload: true,
+        mark: true,
+        size: true,
+      },
+      
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
       chart: true,
-      codetabs: true,
       demo: true,
       echarts: true,
-      figure: true,
       flowchart: true,
       gfm: true,
-      imgLazyload: true,
-      imgSize: true,
       include: true,
-      katex: true,
       mark: true,
       VPCard: true,
       mermaid: true,
       playground: {
         presets: ["ts", "vue"],
       },
-      revealJs: true,
       stylize: [
         {
           matcher: "Recommended",
@@ -141,7 +140,6 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       vPre: true,
       vuePlayground: true,
     },
