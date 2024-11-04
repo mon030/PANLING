@@ -102,12 +102,6 @@ export default hopeTheme({
 
 	 copyright: true,
      
-         feed: {
-      atom: true,
-      json: true,
-      rss: true,
-    },
-    
 
     
     // all features are enabled for demo, only preserve features you need here
