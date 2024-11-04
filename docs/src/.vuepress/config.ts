@@ -7,7 +7,20 @@ import { searchProPlugin } from "vuepress-plugin-search-pro"
 
 export default defineUserConfig({
   base: "/",
-  bundler: viteBundler(),
+  bundler: viteBundler({
+    build: {
+      chunkSizeWarningLimit: 1500, // Adjust limit or split large chunks
+      rollupOptions: {
+        output: {
+          manualChunks(id) {
+            if (id.includes('node_modules')) {
+              return 'vendor';
+            }
+          }
+        }
+      }
+    }
+  }),
 
   locales: {
     "/": {
