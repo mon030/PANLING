@@ -12,7 +12,7 @@ heroText: 盘灵古域攻略站
 tagline: 盘灵古域WIKI&攻略站
 actions:
   - text: 新手教程 💡
-    link: /basic/start/
+    link: /basic/start
     type: primary
 
   - text: 公开服务器
@@ -22,22 +22,22 @@ features:
   - title: 下载资源
     icon: solar:archive-down-minimlistic-bold
     details: 下载盘灵古域原版地图,梦回盘灵数据包及其材质包。
-    link: /other/download/
+    link: /other/download
 
   - title: 新手教程
     icon: mdi:teach
     details: 适合第一次接触盘灵古域的萌新
-    link: /basic/start/
+    link: /guide/basic/start
 
   - title: 进阶内容
     icon: mdi:one-up
     details: 提供各种技巧给玩家
-    link: /advanced/
+    link: /guide/advanced/
 
   - title: 武器&装备图鉴
     icon: ph:sword-duotone
     details: 了解各种武器和装备
-    link: /equipment/
+    link: /equipments/
 
   - title: 道具图鉴
     icon: solar:box-bold-duotone
@@ -67,12 +67,12 @@ features:
   - title: 贡献列表
     icon: pajamas:first-contribution
     details: 看看有哪些大佬贡献了内容
-    link: /other/contribution
+    link: /other/contribution/
 
   - title: 关于我们
     icon: solar:info-circle-broken
     details: 了解更多有关盘灵古域攻略站的内容
-    link: /other/about
+    link: /other/about/
 
   
 copyright: false

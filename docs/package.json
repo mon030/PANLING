@@ -1,42 +1,26 @@
 {
-  "name": "vuepress-panling",
-  "version": "1.0.0",
-  "description": "PANLING GUIDE",
+  "name": "panling",
+  "description": "盘灵古域Wiki&攻略站",
+  "version": "2.0.0",
   "license": "Apache License 2.0",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build src",
-    "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vue/repl": "^4.4.2",
-    "@vuepress/bundler-vite": "2.0.0-rc.18",
-    "@vuepress/plugin-feed": "2.0.0-rc.60",
-    "@vuepress/plugin-google-analytics": "2.0.0-rc.54",
-    "@vuepress/plugin-markdown-image": "2.0.0-rc.60",
-    "@vuepress/plugin-markdown-math": "2.0.0-rc.60",
-    "@vuepress/plugin-markdown-tab": "2.0.0-rc.60",
-    "@vuepress/plugin-pwa": "2.0.0-rc.60",
-    "@vuepress/plugin-revealjs": "2.0.0-rc.60",
-    "chart.js": "^4.4.6",
+    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@waline/client": "^3.4.2",
+    "chart.js": "^4.4.7",
     "echarts": "^5.5.1",
-    "flowchart.ts": "^3.0.1",
-    "mathjax-full": "^3.2.2",
-    "mermaid": "^11.4.0",
-    "sass-embedded": "^1.80.6",
-    "vue": "^3.5.12",
-    "vuepress": "2.0.0-rc.18",
-    "vuepress-plugin-components": "2.0.0-rc.59",
-    "vuepress-plugin-google-adsense2": "1.0.3",
-    "vuepress-plugin-search-pro": "2.0.0-rc.59",
-    "vuepress-theme-hope": "2.0.0-rc.59"
-  },
-  "main": "index.js",
-  "author": "Len",
-  "dependencies": {
-    "@waline/client": "^3.3.2",
-    "jquery": "^3.7.1"
+    "markmap-lib": "^0.17.2",
+    "markmap-toolbar": "^0.17.2",
+    "markmap-view": "^0.17.2",
+    "sass-embedded": "^1.83.0",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.19",
+    "vuepress-theme-hope": "2.0.0-rc.64"
   }
 }

@@ -8,10 +8,8 @@ category:
   - 剧情记录
 ---
 
-#    神族任务记录
+#     神族任务记录
 
 ------
 
-
-
-<AutoCatalog />
+<Catalog />

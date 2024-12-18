@@ -58,4 +58,4 @@ HTTP ERROR 514 错误?
 
 [[1.20\]【梦回盘灵】盘灵古域扩展包 v1.0-灵域破晓 - 展示&共享 - Minecraft(我的世界)中文论坛 - (archive.org)](https://web.archive.org/web/20230714072509/https://search.mcbbs.net/thread-1116615-1-1.html)
 
-如需下载最新版请前往官方kook频道(需要中国大陆手机号注册)
+如需下载最新版请前往官方[kook频道](https://www.kookapp.cn/app/channels/5787377656427081/5801030269558956)

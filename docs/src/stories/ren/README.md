@@ -8,10 +8,8 @@ category:
   - 剧情记录
 ---
 
-#   人族任务记录
+#     人族任务记录
 
 ------
 
-
-
-<AutoCatalog />
+<Catalog />

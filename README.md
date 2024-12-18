@@ -1,6 +1,6 @@
-# 🎮 盘灵古域攻略站
+# 🎮 盘灵古域Wiki&攻略站
 
-MinecraftRPG地图盘灵古域的攻略站。 
+MinecraftRPG地图盘灵古域的Wiki&攻略站。 
 
 Game guide about a Minecraft RPG map 盘灵古域.
 
