@@ -67,7 +67,7 @@ features:
   - title: 贡献列表
     icon: pajamas:first-contribution
     details: 看看有哪些大佬贡献了内容
-    link: /other/contributors/
+    link: /other/contributors
 
   - title: 关于我们
     icon: solar:info-circle-broken

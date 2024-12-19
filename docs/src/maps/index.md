@@ -48,12 +48,20 @@ background ="rgba(253, 230, 138, 0.15)"
 />
 
 <VPCard
-  title="蓬莱岛&圣山&其他"
+  title="蓬莱岛&圣山"
   desc="蓬莱岛入口、鲑鱼阵"
   logo="https://s2.loli.net/2023/09/10/OLynoTQ4D5RV3vq.png"
-  link="./other/"
+  link="./Penglai/"
   background="rgba(253, 230, 138, 0.15)"
 />
 
 
 ## 种族地图
+
+<VPCard
+  title="神族"
+  desc="神族大殿、蛋塔"
+  logo="https://panling.link/assets/panling/certificate/shen.png"
+  link="./other/"
+  background="rgba(253, 230, 138, 0.15)"
+/>
