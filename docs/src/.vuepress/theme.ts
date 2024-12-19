@@ -17,8 +17,10 @@ export default hopeTheme({
 
   repo: "mon030/PANLING",
 
-  docsDir: "src",
-
+  docsDir: "docs/src/",
+  
+  docsBranch: "master",
+  
   // 导航栏
   navbar,
 
