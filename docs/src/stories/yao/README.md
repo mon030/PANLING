@@ -1,6 +1,6 @@
 ---
 title: 妖族任务记录
-index: true
+index: false
 icon: solar:notebook-bookmark-line-duotone
 editLink: false
 author: "Len"

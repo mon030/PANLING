@@ -26,7 +26,9 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "盘灵古域攻略站",
+  copyright: "Copyright © 2015 - 2024 3ON EM",
+  license: "CC BY 4.0",
   displayFooter: true,
 
   // 加密配置
@@ -132,6 +134,15 @@ export default hopeTheme({
       components: ["Badge", "VPCard"],
     },
 
+    copyright: {
+        license: "CC BY 4.0",
+      },
+	feed: {
+        atom: true,
+        json: true,
+        rss: true,
+      },
+      
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",

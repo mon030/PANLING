@@ -1,5 +1,5 @@
 ---
-title: 战神族任务记录
+title: 其他书籍记录
 index: false
 icon: solar:notebook-bookmark-line-duotone
 editLink: false
@@ -8,7 +8,7 @@ category:
   - 剧情记录
 ---
 
-#   战神族任务记录
+#   其他书籍记录
 
 ------
 

@@ -62,12 +62,12 @@ features:
   - title: 爱发电
     icon: fa-solid:donate
     details: 谢谢老板qwq
-    link: https://afdian.net/a/Huazi0w0
+    link: https://afdian.com/a/Huazi0w0
 
   - title: 贡献列表
     icon: pajamas:first-contribution
     details: 看看有哪些大佬贡献了内容
-    link: /other/contribution/
+    link: /other/contributors/
 
   - title: 关于我们
     icon: solar:info-circle-broken
