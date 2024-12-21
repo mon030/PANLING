@@ -12,7 +12,7 @@ heroText: 盘灵古域攻略站
 tagline: 盘灵古域WIKI&攻略站
 actions:
   - text: 新手教程 💡
-    link: /basic/start
+    link: /guide/basic/start
     type: primary
 
   - text: 公开服务器
@@ -24,10 +24,10 @@ features:
     details: 下载盘灵古域原版地图,梦回盘灵数据包及其材质包。
     link: /other/download
 
-  - title: 新手教程
+  - title: 基础教程
     icon: mdi:teach
-    details: 适合第一次接触盘灵古域的萌新
-    link: /guide/basic/start
+    details: 适合第一次接触盘灵古域的盘灵宝宝
+    link: /guide/basic/
 
   - title: 进阶内容
     icon: mdi:one-up

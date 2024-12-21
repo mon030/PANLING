@@ -11,7 +11,6 @@ category:
 ## ITEMS
 
 ```markdown
-
 ![人族种族证明](/assets/panling/certificate/ren.png)
 ```
 

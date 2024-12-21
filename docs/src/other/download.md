@@ -1,7 +1,7 @@
 ---
 title: 下载中心
-index: false
-icon: cache
+index: true
+icon: solar:archive-down-minimlistic-bold
 editLink: false
 author: "Len"
 category:

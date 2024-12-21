@@ -1,7 +1,7 @@
 ---
 title: 贡献列表
 index: true
-icon: cache
+icon: pajamas:first-contribution
 editLink: false
 author: "Len"
 category:
