@@ -19,7 +19,7 @@ export default defineUserConfig({
     MeiliSearchPlugin({
     host: "https://search.3onem.eu.org/",
       apiKey: "a90f00084e9e009494ae9b6028f44194a4468ed2122a74d2292695b94557e0ba",
-      indexUid: "vuepress",
+      indexUid: "panlingwiki",
     })
   ],
 });
