@@ -1,7 +1,6 @@
 import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
-import { MeiliSearchPlugin } from 'vuepress-plugin-meilisearch2'
 
 export default defineUserConfig({
   base: "/",
@@ -12,14 +11,8 @@ export default defineUserConfig({
 
   theme,
 
+
   // 和 PWA 一起启用
   // shouldPrefetch: false,
   
-  plugins: [
-    MeiliSearchPlugin({
-    host: "https://search.3onem.eu.org/",
-      apiKey: "a90f00084e9e009494ae9b6028f44194a4468ed2122a74d2292695b94557e0ba",
-      indexUid: "panlingwiki",
-    })
-  ],
 });

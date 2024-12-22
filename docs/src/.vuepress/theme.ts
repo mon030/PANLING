@@ -140,7 +140,14 @@ export default hopeTheme({
         license: "CC BY 4.0",
       },
 
+	docsearch: {
+     apiKey: "fd75bd85aa0cc409955522049ec69aa1",
+     indexName: "panling_link_bzozk27jal_articles",
+     appId: "BZOZK27JAL",
+
+    },
 	//搜索插件更换
+
       
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
