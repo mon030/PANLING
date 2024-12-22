@@ -5,6 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://panling.link",
+  lang: "zh-CN",
 
   author: {
     name: "LenKun",
