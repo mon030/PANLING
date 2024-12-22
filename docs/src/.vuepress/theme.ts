@@ -142,9 +142,8 @@ export default hopeTheme({
 
 	docsearch: {
      apiKey: "fd75bd85aa0cc409955522049ec69aa1",
-     indexName: "panling_link_bzozk27jal_articles",
+     indexName: "PANLINGWIKI_INDEX",
      appId: "BZOZK27JAL",
-
     },
 	//搜索插件更换
 
