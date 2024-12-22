@@ -42,6 +42,9 @@ importers:
       vuepress:
         specifier: 2.0.0-rc.19
         version: 2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.2)(sass-embedded@1.83.0)(yaml@2.6.1))(vue@3.5.13)
+      vuepress-plugin-meilisearch2:
+        specifier: ^0.5.1
+        version: 0.5.1
       vuepress-theme-hope:
         specifier: 2.0.0-rc.66
         version: 2.0.0-rc.66(@vuepress/plugin-slimsearch@2.0.0-rc.67(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.2)(sass-embedded@1.83.0)(yaml@2.6.1))(vue@3.5.13)))(@waline/client@3.4.2)(chart.js@4.4.7)(echarts@5.5.1)(katex@0.16.18)(markdown-it@14.1.0)(markmap-lib@0.17.2(markmap-common@0.17.1))(markmap-toolbar@0.17.2(markmap-common@0.17.1))(markmap-view@0.17.2(markmap-common@0.17.1))(sass-embedded@1.83.0)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.2)(sass-embedded@1.83.0)(yaml@2.6.1))(vue@3.5.13))
@@ -2523,6 +2526,9 @@ packages:
         optional: true
       sass-loader:
         optional: true
+
+  vuepress-plugin-meilisearch2@0.5.1:
+    resolution: {integrity: sha512-oAjpeDJmJtfqlSg/ReNk+dJEmO1iDcHqt/Y0g+ovu/gM9kqm1qkyddd83c/mpUtDLtu4VzQWNi//sgfkfzpFlA==}
 
   vuepress-shared@2.0.0-rc.64:
     resolution: {integrity: sha512-YA0z7Pwob8Bj7uHNHBXGpH6GeaLAhBFlvBtTM136zZhsUb2mQptB67y1B03RLDYtfzMP06WKCh449azdVbZykA==}
@@ -5136,6 +5142,12 @@ snapshots:
       sass-embedded: 1.83.0
     transitivePeerDependencies:
       - markdown-it
+      - typescript
+
+  vuepress-plugin-meilisearch2@0.5.1:
+    dependencies:
+      vue: 3.5.13
+    transitivePeerDependencies:
       - typescript
 
   vuepress-shared@2.0.0-rc.64(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.2)(sass-embedded@1.83.0)(yaml@2.6.1))(vue@3.5.13)):
