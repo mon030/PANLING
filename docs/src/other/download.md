@@ -50,7 +50,7 @@ HTTP ERROR 514 错误?
 
 最新版本:灵域破晓-v1.1.0b
 
-下载源: 
+##### 下载源①: 
 
 [MCBBS介绍帖](https://search.mcbbs.net/thread-1116615-1-1.html)
 
@@ -58,4 +58,12 @@ HTTP ERROR 514 错误?
 
 [[1.20\]【梦回盘灵】盘灵古域扩展包 v1.0-灵域破晓 - 展示&共享 - Minecraft(我的世界)中文论坛 - (archive.org)](https://web.archive.org/web/20230714072509/https://search.mcbbs.net/thread-1116615-1-1.html)
 
-如需下载最新版请前往官方[kook频道](https://www.kookapp.cn/app/channels/5787377656427081/5801030269558956)
+##### 下载源②: 
+
+官方[kook频道](https://www.kookapp.cn/app/channels/5787377656427081/5801030269558956) (需登录kook帐号)
+
+##### 下载源③: 
+
+[爱发电](https://afdian.com/p/65731f5a31c311eeba435254001e7c00)
+
+蓝奏云的域名请替换为`lanzoux.com`
