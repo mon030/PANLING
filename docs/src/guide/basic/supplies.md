@@ -5,9 +5,10 @@ icon: grommet-icons:install
 editLink: false
 author: "Len"
 category:
-  - 主线剧情
-prev: ./training
-next: ./supplies
+  - 基础教程
+  - 游戏指南
+prev: ./supplies
+next: ./ImperialCity
 ---
 
 ## 新手上路
@@ -148,4 +149,47 @@ next: ./supplies
 
 ## 前往皇城
 
-HI
+所有的主线都将引导玩家前往皇城，以下是各种族的传送点座标。
+
+::: tabs#Races
+
+@tab 人族
+
+![人族传送点](https://s21.ax1x.com/2024/12/23/pAXDe3t.png)
+
+人族传送点座标: `1600 130 123`
+
+@tab 仙族
+
+![仙族传送点](https://s21.ax1x.com/2024/12/23/pAXDmgP.png)
+
+仙族传送点座标: `3175 52 940`
+
+@tab 神族
+
+![神族传送点](https://s21.ax1x.com/2024/12/23/pAXDnjf.png)
+
+神族传送点座标: `3180 145 105`
+
+@tab 妖族
+
+![妖族传送点](https://s21.ax1x.com/2024/12/23/pAXDKu8.png)
+
+妖族传送点座标: `2850 53 830`
+
+::: tip 
+
+妖族的传送点在皇城外面，如需进入皇城请前往东城门`340 45 65`
+
+@tab 战神族
+
+![战神族传送点](https://s21.ax1x.com/2024/12/23/pAXDMDS.png)
+
+战神族传送点座标: `3200 19 -330`
+
+::: tip 
+
+妖族的传送点在皇城外面，如需进入皇城请前往西城门`0 46 123`
+
+:::
+

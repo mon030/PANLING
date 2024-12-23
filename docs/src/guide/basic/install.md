@@ -6,6 +6,7 @@ editLink: false
 author: "Len"
 category:
   - 使用指南
+  - 基础教程
 sidebar: heading
 ---
 

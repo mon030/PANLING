@@ -6,6 +6,7 @@ editLink: false
 author: "Len"
 category:
   - 基础教程
+  - 游戏指南
 prev: ./jobs
 next: ./bg-intro
 ---

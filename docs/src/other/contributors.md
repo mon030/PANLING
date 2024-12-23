@@ -20,7 +20,19 @@ category:
   <img src="https://contrib.rocks/image?repo=mon030/PANLING" />
 </a>
 
+## 盤靈古域制作团队
 
+[水狼陽介](https://www.facebook.com/MizuArk)
+
+[Mayor TW](https://facebook.com/Mayortw)
+
+[紅石口袋](https://redstonepoke.blogspot.com/)
+
+[官网的感谢名单](https://pan-gu-continent.blogspot.com/p/aboutus.html)
+
+## 数据包作者
+
+[御龙九秋](https://space.bilibili.com/12881538/)
 
 ## 感谢提供服务
 

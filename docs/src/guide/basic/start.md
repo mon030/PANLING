@@ -5,7 +5,8 @@ icon: grommet-icons:install
 editLink: false
 author: "Len"
 category:
-  - 主线剧情
+  - 基础教程
+  - 游戏指南
 prev: false
 next: ./races
 ---
