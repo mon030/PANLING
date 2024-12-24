@@ -1,14 +1,14 @@
 ---
 title: 皇城
 index: false
-icon: grommet-icons:install
+icon: solar:stars-minimalistic-bold
 editLink: false
 author: "Len"
 category:
   - 基础教程
   - 游戏指南
-prev: ./training
-next: ./supplies
+prev: ./supplies
+next: ./longxutown
 ---
 
  欢迎来到皇城，下面是对皇城主要设施的介绍。
@@ -18,6 +18,12 @@ next: ./supplies
 ![收购市集](https://s21.ax1x.com/2024/12/23/pAXrAqU.png)
 
 - 杂物、矿物、古董收购员。可在此回收通过战斗&钓鱼获得的物品
+
+  :::tip
+
+  如果获得[未知的彩色晶块]，可在神秘商人处兑换银票
+
+  :::
 
 ## 南门市集
 
@@ -41,6 +47,14 @@ next: ./supplies
 - 进行武器与装备的词条洗练
 - 进行装备附灵
 - 兑换精炼元素
+
+::: tip 
+
+如果游玩的是服务器，推荐去检查一下铁匠铺内的箱子。
+
+一般会有大佬留下的物品和任务道具(如三剑意任务)，可酌情拿取。
+
+ :::
 
 ## 钱庄
 
@@ -78,3 +92,17 @@ next: ./supplies
 - 查询种族风评
 - 提升种族好感
 - !!不可以色色!!
+
+## 主线
+
+在皇城，请完成当前的主线任务与购买基础的物资(食物)，然后通过东城门`320 44 64`前往龙须镇。
+
+::: info 妖族主线相关信息
+
+妖族主线需要先从西门`30 46 125`出发前往镇妖塔`-181 65 180`。
+
+在完成主线的同时，推荐在[地之石碑]处右键告示牌获取[地之剑意]
+
+![地之剑意](https://s21.ax1x.com/2024/12/24/pAjCUtf.png)
+
+ :::
