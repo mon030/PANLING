@@ -18,7 +18,7 @@ export default hopeTheme({
 
   repo: "mon030/PANLING",
 
-  docsDir: "/docs/src/",
+  docsDir: "/docs/src",
   
   docsBranch: "master",
   
