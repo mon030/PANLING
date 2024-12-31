@@ -72,7 +72,7 @@ features:
   - title: 关于我们
     icon: solar:info-circle-broken
     details: 了解更多有关盘灵古域攻略站的内容
-    link: /other/about/
+    link: /other/about
 
   
 copyright: false
