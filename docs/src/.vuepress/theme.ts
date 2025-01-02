@@ -18,7 +18,7 @@ export default hopeTheme({
 
   repo: "mon030/PANLING",
 
-  docsDir: "/docs/src",
+  docsDir: "docs/src",
   
   docsBranch: "master",
   
@@ -148,7 +148,11 @@ export default hopeTheme({
     },
 	//搜索插件更换
 
-      
+
+	//调试用
+     
+    //调试用
+    
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",

@@ -1,14 +1,14 @@
 ---
 title: 龙须镇
 index: false
-icon: solar:stars-minimalistic-bold
+icon: fluent-emoji:dragon-face
 editLink: false
 author: "Len"
 category:
   - 基础教程
   - 游戏指南
 prev: ./ImperialCity
-next: ./supplies
+next: ./east
 ---
 
 ## 前往龙须镇
@@ -23,12 +23,56 @@ next: ./supplies
 
 龙须镇附近的怪物强度较弱，建议萌新玩家在龙须镇附近发育到拥有二届装备后再前往青龙祭坛。
 
+##### 一些推荐的座标点
+
+- 440 54 10
+- 460 56 20
+- 490 46 0
+
+‎
+
 以下是一份清单
 
-- 元素 x32 (用于制作二阶装备)
-- 铜钱 x32 (用于制作二阶装备)
+- 元素 x32 (用于制作二阶装备，其中至少需要10枚木元素)
+- 铜钱 x32 (用于购买武器雏形与防具锻核)
 - 重生石 x5
 - 新手疗愈丹 x5
 - 达到15级或以上
 
 在满足以上条件后返回请皇城制作二届装备
+
+## 制作二届装备
+
+要制作二届装备，需要前往铁匠铺兑换精炼元素,武器雏形与防具锻核。
+
+请参考下面的[装备套装属性表](/equipments/armor/armorskill)来选择装备的元素属性。
+
+::: important 
+
+基础属性只需两件装备即可激活，职业专属与传说增幅须集齐四件同属性装备才可激活。
+
+ :::
+
+::: tip
+
+在五届装备之前，我们推荐制作土木/水木套装。
+
+:::
+
+![装备套装属性表](https://s21.ax1x.com/2024/12/27/pAvruzn.png)
+
+
+
+![精炼元素兑换](https://s21.ax1x.com/2025/01/01/pAzxEuj.png)
+
+![武器雏形与防具锻核兑换](https://s21.ax1x.com/2025/01/01/pAzxZbn.png)
+
+关于如何制作，请按照以下的图示来摆放材料。
+
+![武器制作](https://s21.ax1x.com/2025/01/01/pAzxBxe.png)
+
+武器需要精炼木元素 x2 与职业相关武器雏形 x1
+
+![装备制作](https://s21.ax1x.com/2025/01/01/pAzxrKH.png)
+
+装备需要任意精炼元素 x1, 防具锻核 x1与部位材料 x1
