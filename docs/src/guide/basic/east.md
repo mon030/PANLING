@@ -27,14 +27,13 @@ next: ./dragontest
 
 ![石制祭坛](https://s21.ax1x.com/2025/01/05/pEpOPmR.png)
 
-此地刷新<span style="color: #FFAA00;"><span style="font-weight: bold;">神速破军的&nbsp;蜘蛛女王 </span></span>，掉落三阶装备原核，赤铜锭与重生石。
+此地刷新<span style="color: #FFAA00;"><span style="font-weight: bold;">神速破军的&nbsp;蜘蛛女王</span></span>，掉落三阶装备原核，赤铜锭与重生石。
 
 座标`666 47 40`
 
 ### 始皇陵
 
-在<span style="color: #00AA00;"><span style="font-style: italic;">龙鳞之森
-</span></span>沿路进森林的第二个湖泊旁
+在<span style="color: #00AA00;"><span style="font-style: italic;">龙鳞之森</span></span>沿路进森林的第二个湖泊旁
 
 座标`695 33 -140`
 
@@ -64,7 +63,7 @@ next: ./dragontest
 
 ![废弃村庄](https://s21.ax1x.com/2025/01/05/pEpOl7t.png)
 
-此地刷新<span style="color: #FFAA00;"><span style="font-weight: bold;">神速破军的&nbsp;蜘蛛女王 </span></span>，掉落三阶装备原核，赤铜锭与重生石。
+此地刷新<span style="color: #FFAA00;"><span style="font-weight: bold;">神速破军的&nbsp;蜘蛛女王</span></span>，掉落三阶装备原核，赤铜锭与重生石。
 
 座标`555 39 345`
 

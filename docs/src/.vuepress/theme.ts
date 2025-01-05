@@ -134,7 +134,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPBanner", "BiliBili", "VidStack", "VPCard"],
     },
 
     copyright: {

@@ -8,62 +8,58 @@ category:
   - 使用指南
 ---
 
+
+
 ::: warning  注意
 
 我们并未被授权发布地图及材质包！
 
 本文所提供的任何资源均来自官方发布或授权的页面。
 
-HTTP ERROR 514 错误?
-
-这是因为Mcbbs封锁了所有来自中国大陆以外的访问，我们对此无能为力。
-
-建议使用中国大陆节点的VPN
+如果需要添加您的作品或授权提供下载，请联系站长Len困。
 
 ::: 
 
-### **原版地图存档**
+------
 
-最新版本:1.2.3
+<VPBanner
+  title="盘灵古域下载"
+  content="下载原版的地图与材质包"
+  logo="icons/solar--cloud-download-bold.svg"
+  :actions='[
+    {
+      text: "前往官网下载",
+      link:"https://pan-gu-continent.blogspot.com/p/download.html",
+    },
+    {
+      text: "前往授权贴子下载",
+      link: "https://tieba.baidu.com/p/6132497097?pn=1",
+      type: "default",
+    },
+  ]'
+/>
 
-下载源:
+------
 
- [官方](https://pan-gu-continent.blogspot.com/p/download.html)
+<VPBanner
+  title="梦回盘灵扩展包下载"
+  content="下载由御龙九秋制作适用与高版本的数据包"
+  logo="icons/stash--pack-duotone.svg"
+  :actions='[
+    {
+      text: "前往爱发电下载",
+      link:"https://afdian.com/p/65731f5a31c311eeba435254001e7c00",
+    },
+    {
+      text: "前往KOOK下载",
+      link: "https://www.kookapp.cn/app/channels/5787377656427081/5801030269558956",
+      type: "default",
+    },
+  ]'
+/>
 
-[百度盘灵古域吧 (官方授权补档)](https://tieba.baidu.com/p/6132497097?pn=1)
-
-
-
-### **原版材质包**
-
-最新版本:1.2
-
-下载源:
-
-[官方](https://pan-gu-continent.blogspot.com/p/download.html)
-
-[百度盘灵古域吧 (官方授权补档)](https://tieba.baidu.com/p/6132497097?pn=1)
-
-
-
-### **扩展包梦回盘灵及其扩展材质包**
-
-最新版本:灵域破晓-v1.1.0b
-
-##### 下载源①: 
-
-[MCBBS介绍帖](https://search.mcbbs.net/thread-1116615-1-1.html)
-
-由于mcbbs维护超过14天,我们在此提供介绍帖的缓存页面
-
-[[1.20\]【梦回盘灵】盘灵古域扩展包 v1.0-灵域破晓 - 展示&共享 - Minecraft(我的世界)中文论坛 - (archive.org)](https://web.archive.org/web/20230714072509/https://search.mcbbs.net/thread-1116615-1-1.html)
-
-##### 下载源②: 
-
-官方[kook频道](https://www.kookapp.cn/app/channels/5787377656427081/5801030269558956) (需登录kook帐号)
-
-##### 下载源③: 
-
-[爱发电](https://afdian.com/p/65731f5a31c311eeba435254001e7c00)
+:::tip 
 
 蓝奏云的域名请替换为`lanzoux.com`
+
+:::
