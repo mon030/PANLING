@@ -7,7 +7,7 @@ author: "Len"
 category:
   - 基础教程
   - 游戏指南
-prev: false
+prev: ./east
 next: false
 ---
 

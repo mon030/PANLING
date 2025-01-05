@@ -31,10 +31,14 @@ next: ./dragontest
 
 此地刷新<span style="color: #FFAA00;"><span style="font-weight: bold;">神速破军的&nbsp;蜘蛛女王 </span></span>，掉落三阶装备原核，赤铜锭与重生石。
 
+座标`666 47 40`
+
 ### 始皇陵
 
 在<span style="color: #00AA00;"><span style="font-style: italic;">龙鳞之森
 </span></span>沿路进森林的第二个湖泊旁
+
+座标`695 33 -140`
 
 ![始皇陵入口](https://s21.ax1x.com/2025/01/05/pEpOn6H.png)
 
@@ -48,11 +52,15 @@ next: ./dragontest
 
 完成收集任务【<span style="color: #5555FF;">消失的贡品</span>】可兑换一下奖励: 初级药引，山神的祝福(生命回复Ⅱ)，三阶装备原核，赤铜锭，银元。
 
+座标`833 40 99`
+
 ### 茶点铺
 
 ![茶点铺](https://s21.ax1x.com/2025/01/05/pEpOMnA.png)
 
 重生点位置记录
+
+座标`686 71 113`
 
 ### 废弃村庄
 
@@ -60,10 +68,18 @@ next: ./dragontest
 
 此地刷新<span style="color: #FFAA00;"><span style="font-weight: bold;">神速破军的&nbsp;蜘蛛女王 </span></span>，掉落三阶装备原核，赤铜锭与重生石。
 
+座标`555 39 345`
+
+::: tip
+
 ![推荐挂机位置](https://s21.ax1x.com/2025/01/05/pEpO3AP.png)
+
+:::
 
 ### 青龙祭坛
 
 ![青龙祭坛](https://s21.ax1x.com/2025/01/05/pEpOGh8.png)
 
 可传送至青龙神庙。
+
+座标`550 34 394`
