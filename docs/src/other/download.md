@@ -43,7 +43,7 @@ category:
 
 <VPBanner
   title="梦回盘灵扩展包下载"
-  content="下载由御龙九秋制作适用与高版本的数据包"
+  content="下载由御龙九秋制作适用于高版本的数据包"
   logo="icons/stash--pack-duotone.svg"
   :actions='[
     {
@@ -59,6 +59,8 @@ category:
 />
 
 :::tip 
+
+Kook需要登录才能访问
 
 蓝奏云的域名请替换为`lanzoux.com`
 
