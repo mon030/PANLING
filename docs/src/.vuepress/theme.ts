@@ -30,7 +30,7 @@ export default hopeTheme({
 
   // 页脚
   footer: "盘灵古域攻略站",
-  copyright: "Copyright © 2015 - 2024 3ON EM",
+  copyright: "Copyright © 2015 - 2025 3ON EM",
   license: "CC BY 4.0",
   displayFooter: true,
 
