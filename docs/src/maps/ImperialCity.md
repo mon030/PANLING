@@ -1,7 +1,7 @@
 ---
 title: 皇城游览地图
 index: true
-icon: solarmap-bold-duotone
+icon: solar:map-bold-duotone
 author: Len
 category:
   - 新手教程	

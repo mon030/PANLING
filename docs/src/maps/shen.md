@@ -1,7 +1,7 @@
 ---
 title: 神族地图
 index: true
-icon: solarmap-bold-duotone
+icon: solar:map-bold-duotone
 author: Len
 category:
   - 新手教程	

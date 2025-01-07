@@ -1,7 +1,7 @@
 ---
 title: 大陆西部地图
 index: true
-icon: solarmap-bold-duotone
+icon: tabler:navigation-west
 author: Len
 category:
   - 新手教程	

@@ -1,7 +1,7 @@
 ---
 title: 大陆北部地图
 index: true
-icon: solarmap-bold-duotone
+icon: tabler:navigation-north
 author: Len
 category:
   - 新手教程	
