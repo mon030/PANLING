@@ -75,3 +75,27 @@ background ="rgba(253, 230, 138, 0.15)"
   link="./xian"
   background="rgba(253, 230, 138, 0.15)"
 />
+
+<VPCard
+  title="人族"
+  desc="村长家、女娲试炼"
+  logo="/assets/panling/certificate/ren.png"
+  link="./ren"
+  background="rgba(253, 230, 138, 0.15)"
+/>
+
+<VPCard
+  title="妖族"
+  desc="中央神木、图书馆"
+  logo="/assets/panling/certificate/yao.png"
+  link="./yao"
+  background="rgba(253, 230, 138, 0.15)"
+/>
+
+<VPCard
+  title="战神族"
+  desc="中央神木、图书馆"
+  logo="/assets/panling/certificate/zhan.png"
+  link="./zhan"
+  background="rgba(253, 230, 138, 0.15)"
+/>
