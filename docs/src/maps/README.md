@@ -94,8 +94,18 @@ background ="rgba(253, 230, 138, 0.15)"
 
 <VPCard
   title="战神族"
-  desc="中央神木、图书馆"
+  desc="议事厅、蚩尤试炼"
   logo="/assets/panling/certificate/zhan.png"
   link="./zhan"
+  background="rgba(253, 230, 138, 0.15)"
+/>
+
+## 其他地区
+
+<VPCard
+  title="其他地区"
+  desc="奈何桥、重华镜、员工休息室"
+  logo="/assets/panling/minecraft/textures/item/shulker_shell.png"
+  link="./other"
   background="rgba(253, 230, 138, 0.15)"
 />
