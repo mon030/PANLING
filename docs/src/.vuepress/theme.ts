@@ -83,6 +83,7 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
+    VPIcon: true,
 
     // 取消注释它们如果你需要 TeX 支持
     // markdownMath: {
@@ -134,7 +135,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPBanner", "BiliBili", "VidStack", "VPCard", "VPIcon"],
+      components: ["Badge", "VPBanner", "BiliBili", "VidStack", "VPCard"],
     },
 
     copyright: {

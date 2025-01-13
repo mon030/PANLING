@@ -38,6 +38,18 @@ category:
 
 [Email](mailto:info@3onem.eu.org)
 
+[服务器入驻申请表单](https://tally.so/r/woKKWX)
+
 ## 友情链接
 
 [MCNav | MC导航网 | Minecraft 网址导航站 | MC工具大全](https://www.mcnav.net/)
+
+
+
+------
+
+#### Made by LenKun with ❤️and🏳️‍🌈
+
+####  3ON EM (Project K-Labs)
+
+<img src="/assets/icon/logo_b.png" alt="3ON EM LOGO" style="zoom:5%;" />
