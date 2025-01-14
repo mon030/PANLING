@@ -64,4 +64,6 @@ Kook需要登录才能访问
 
 蓝奏云的域名请替换为`lanzoux.com`
 
+[地图、资源包与数据包安装教程](/guide/basic/install)
+
 :::
