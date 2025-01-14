@@ -22,7 +22,7 @@ features:
   - title: 下载资源
     icon: solar:archive-down-minimlistic-bold
     details: 下载盘灵古域原版地图,梦回盘灵数据包及其材质包。
-    link: /other/download
+    link: /other/download/
 
   - title: 基础教程
     icon: mdi:teach
