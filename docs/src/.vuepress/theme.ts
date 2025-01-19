@@ -20,7 +20,9 @@ export default hopeTheme({
 
   logo: "images/logo.png",
 
-  dicsRepo: "mon030/PANLING",
+  docsRepo: "mon030/PANLING",
+  
+  repo: "mon030/PANLING",
 
   docsDir: "docs/src",
   
