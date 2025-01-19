@@ -12,11 +12,15 @@ export default hopeTheme({
     url: "https://imon.eu.org",
   },
 
+  lastUpdated: true,
+  
+  contributors: true,
+
   iconAssets: "iconify",
 
   logo: "images/logo.png",
 
-  repo: "mon030/PANLING",
+  dicsRepo: "mon030/PANLING",
 
   docsDir: "docs/src",
   
