@@ -50,4 +50,9 @@ category:
 
 ####  3ON EM (Project K-Labs)
 
-<img src="/assets/icon/logo_b.png" alt="3ON EM LOGO" style="zoom:5%;" />
+<img src="/assets/icon/logo_b.png" alt="3ON EM 叁绱 LOGO" style="zoom:5%;" />
+
+
+
+<img src="/assets/icon/klabs.png" alt="壁宿 K-LABS LOGO" style="zoom:5%;" />
+
