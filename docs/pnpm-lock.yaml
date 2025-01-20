@@ -47,6 +47,9 @@ importers:
       vuepress:
         specifier: 2.0.0-rc.19
         version: 2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.7)(sass-embedded@1.83.4)(yaml@2.7.0))(vue@3.5.13)
+      vuepress-plugin-google-adsense2:
+        specifier: ^1.0.3
+        version: 1.0.3
       vuepress-theme-hope:
         specifier: 2.0.0-rc.70
         version: 2.0.0-rc.70(@vuepress/plugin-docsearch@2.0.0-rc.73(@algolia/client-search@5.19.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.7)(sass-embedded@1.83.4)(yaml@2.7.0))(vue@3.5.13)))(@waline/client@3.5.1)(chart.js@4.4.7)(echarts@5.6.0)(katex@0.16.21)(markdown-it@14.1.0)(markmap-lib@0.17.2(markmap-common@0.17.1))(markmap-toolbar@0.17.2(markmap-common@0.17.1))(markmap-view@0.17.2(markmap-common@0.17.1))(sass-embedded@1.83.4)(vidstack@1.12.12)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.7)(sass-embedded@1.83.4)(yaml@2.7.0))(vue@3.5.13))
@@ -2646,6 +2649,9 @@ packages:
         optional: true
       vidstack:
         optional: true
+
+  vuepress-plugin-google-adsense2@1.0.3:
+    resolution: {integrity: sha512-xk7dn2WjIcdveBRHIh/pNZktrGtO+Zsv01n/OBnrqKrRM9as0dvpjaKsAMPqyRxpaRkN7j3bU+h9KPH00RmfQg==}
 
   vuepress-plugin-md-enhance@2.0.0-rc.69:
     resolution: {integrity: sha512-mzlMDFTAPQIrBRiaVWAAc0IGhAHj7CU1A3l+MVg1ezYUcPIHEmm4lSSHS1IUIUBjkCpplHux75iAFE8Ua6TC5w==}
@@ -5515,6 +5521,15 @@ snapshots:
       sass-embedded: 1.83.4
       vidstack: 1.12.12
     transitivePeerDependencies:
+      - typescript
+
+  vuepress-plugin-google-adsense2@1.0.3:
+    dependencies:
+      '@vuepress/client': 2.0.0-rc.19
+      '@vuepress/core': 2.0.0-rc.19
+      '@vuepress/utils': 2.0.0-rc.19
+    transitivePeerDependencies:
+      - supports-color
       - typescript
 
   vuepress-plugin-md-enhance@2.0.0-rc.69(chart.js@4.4.7)(echarts@5.6.0)(markdown-it@14.1.0)(markmap-lib@0.17.2(markmap-common@0.17.1))(markmap-toolbar@0.17.2(markmap-common@0.17.1))(markmap-view@0.17.2(markmap-common@0.17.1))(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.10.7)(sass-embedded@1.83.4)(yaml@2.7.0))(vue@3.5.13)):

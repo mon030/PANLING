@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
 
 import theme from "./theme.js";
 
@@ -11,7 +12,11 @@ export default defineUserConfig({
 
   theme,
 
-
+  plugins: [
+    googleAdSensePlugin({
+      id: 'ca-pub-2860229584748328',
+    }),
+  ],
   // 和 PWA 一起启用
   // shouldPrefetch: false,
   
