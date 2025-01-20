@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-import googleAdSensePlugin from "vuepress-plugin-google-adsense2";
+import { googleAdSensePlugin } from "vuepress-plugin-google-adsense2";
 
 import theme from "./theme.js";
 
