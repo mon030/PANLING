@@ -14,7 +14,7 @@ export default defineUserConfig({
 
   plugins: [
     googleAdSensePlugin({
-      id: 'ca-pub-2860229584748328',
+      id: "ca-pub-2860229584748328",
     }),
   ],
   // 和 PWA 一起启用
