@@ -16,11 +16,13 @@ category:
 
 本文所提供的任何资源均来自官方发布或授权的页面。
 
-如果需要添加您的作品或授权提供下载，请联系站长Len困。
+如果需要添加您的作品或授权提供下载，请[填写表单](https://tally.so/r/3yj5rp)
 
-::: 
+:::
 
 ------
+
+
 
 <VPBanner
   title="盘灵古域下载"
@@ -53,6 +55,11 @@ category:
     {
       text: "前往KOOK下载",
       link: "https://www.kookapp.cn/app/channels/5787377656427081/5801030269558956",
+      type: "default",
+    },
+        {
+      text: "前往Discord下载",
+      link: "https://discord.gg/jwem9aWjjn",
       type: "default",
     },
   ]'
