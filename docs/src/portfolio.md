@@ -5,6 +5,8 @@ icon: flat-color-icons:about
 category:
   - 联合黑名单
   - 其他
+editLink: false
+contributors: false
 
 ---
 
@@ -955,5 +957,13 @@ category:
 给予此处罚的服务器:烂柯山重启计划
 
 执行管理员ID:Len困
+
+:::
+
+------
+
+::: tip 
+
+你可以在下面的评论区里挂人，但请勿发布个人隐私信息与辱骂他人的内容。
 
 :::

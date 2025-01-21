@@ -9,7 +9,7 @@ category:
   - 功能道具图鉴
 ---
 
-![NPC对话泡泡](/assets/panling/minecraft/textures/item/npc_bubble.png)
+![NPC对话泡泡](/assets/panling/items/npc_bubble.png)
 
 ## 描述
 

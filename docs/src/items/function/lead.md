@@ -1,0 +1,28 @@
+---
+title: 拴绳
+index: true
+icon: game-icons:rope-coil
+editLink: false
+author: "Len"
+category:
+  - 道具图鉴
+  - 任务道具图鉴
+  - 功能道具图鉴
+
+---
+
+![拴绳](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAAG1BMVEUAAABeLxByYFSFRhuLcF+mZz2mm5Ouc0u1qJ8ixZdWAAAAAXRSTlMAQObYZgAAAKFJREFUeNrt1UcZAkAMROG1EAtYiAUsxAIW1gKy+YY29M4p7922/XvMICIi+mep5o1KpeoNAgLaymOhnNW2ICBgKINvXGkHAgKmKvXGxw1AQMC3VZ+G6ggCAlrdVjdKNVVTEBDwNu1SrdVKAQIC3ve31kKNWwECAr40nwABAQEBAUs9ZkrZ6ggCAqYqNY95GcpWWxAQcKniXsM1BgEBieh2G8eol+i5MiTOAAAAAElFTkSuQmCC)
+
+![拴绳(旧版)](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABHVBMVEVHcEzr5+Lp5eB5b12AgIB8cmDm4917cV96cmLk4Ns7MBvx7ul1a1luZVV7cV9/d2hhVkOBeGY9Mh15b12moJTm491tZFTp5eDv7OdoXkvk4dtmXEl8cmB1a12+uK/QzMSMhXd6cmJ0bFxtY1R3bVt7c2NpX06/ubBsYk+AeGk8MBzb2NGel4ujnJGzrqOpophBNiFCNyNDOCRvZVbf29Xn5N5yaVnUz8hrYlKXkIPq5+Lc2NGXkIS8tq3FwLjt6uWyrKLs6eSqpJllXEt3b19fVkTHwrrY1M2fmIx9dWXr6OPCvbTl4tza1s/w7ehWTDiln5NQRjNgVUVrYE6IgHK7tqydlYptY1F+dmdaUD5XTTqyraJVSziblIjd2tO6rcCeAAAACnRSTlMA5d/9Av33+/P9ekRYcgAAASFJREFUOMvVktdSwzAQRUVN2LXkbscOqRCS0HuHUBJ67/3/PwPZYQYkJeaNGa5etHPPXGlXIuTfiWlc3V3GMFI3RtMR7yhtbhYmkDHVz+pIKUSi+mQBWScfIN5yZm1LIbLc/66A7m5TwQcdQahpRgZOBYCoQENMcDJjyUfcowgQWELDMNr7Wg3QNKUuZpenF92QM8btI9brH4gyMTfveVMr69Gs359enl+VCEIsy1otF4tlj08qBLPje1jxrAl5wwdIfPZhvPkFqI6IgDbKl/YjoCr6cH6BeHJk23HVP7CxIwZAxQ+Cy6uzw4M4JDWUX5ACKg5iAMd7rmvbfanBfG5cuhNcOw7wj7If+n5vz0xO7QDanwlapVI6DQkdfs3pj/UJ9SgbyhGccokAAAAASUVORK5CYII=)
+
+## 描述
+
+用来拴住被制服的水牛精，请将水牛精牵过鹊桥带到织女旁边。 
+
+可用来拴住马匹 <Badge text="旧版功能" type="note" vertical="middle" />
+
+## 获取方式
+
+任务道具
+
+与旅行用具销售员进行兑换 <Badge text="旧版功能" type="note" vertical="middle" />
