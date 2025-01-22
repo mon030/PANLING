@@ -9,7 +9,7 @@ category:
   - 功能道具图鉴
 ---
 
-![NPC闲聊内容](/assets/panling/minecraft/textures/item/npc_chat.png)
+![NPC闲聊内容](https://s2.loli.net/2025/01/23/kDSNIPEqRgp5ZHO.gif)
 
 ## 描述
 

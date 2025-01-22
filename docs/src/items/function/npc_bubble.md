@@ -9,7 +9,7 @@ category:
   - 功能道具图鉴
 ---
 
-![NPC对话泡泡](/assets/panling/items/npc_bubble.png)
+![NPC对话泡泡](https://s2.loli.net/2025/01/23/upiFrxOo9AH1NhG.gif)
 
 ## 描述
 

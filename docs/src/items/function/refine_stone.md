@@ -9,7 +9,7 @@ category:
   - 功能道具图鉴
 ---
 
-![词条洗炼石](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAA8CAMAAAAwsEgmAAABC1BMVEVHcExzYD0XDxU3MTFeRDFGMykRChU0JiEbFhQnHRqFeU0kHSPdlyT/zDG/mSWucRt/SxF/ZhjdlCJyXz3bdg78oBO8cQmubhm/lSJ/YRV/Rw+sVgi8dQvacAn7mA37kgnabAaubxrcfhK/lyTbehD9qhn/yC7/yS++hBatYRC/mCSsVwmucBr8pRb8ohTacgvbeA69dg37mg+sVAehUxT/yi/EaRa8cgq+hRetYhHcgha+jh7+wSmtaRZ/YBR/Rw79sB78nhHbdQysWwt9SgW9exB+QQt+WQ99NgOtYA78nRDEaha+ghShRwvbdAu+gxb+wyutaxbdkB/acQracgq+kR/+wyr7mg77mQ6bd5L6AAAAAXRSTlMAQObYZgAAAfZJREFUOMvtlFdv3TAMhWNeS6RkDfs2SffeM+nee++ZtP//l5SU7w085DzlpUAFGDB0jkgeW/hWVvZ2zdLaRbfW7itMVU2dtrYoy1JhXWVPF7XoChEfZ4qwXuJ71u/cwgcGn1I11vnwj5+fbcHO+2RIjwzqO9oCP/KLcfwyMBSl+yWHS6wVviB29UrMrHGYdEUY56UjpbolpEHENAaXJx7GRToEuj9ixFaXnGhoP3Z6zOSso1qEaIg4wyr7Ogau6qSN+7KeWhCdYXPHAG9ekuV4nI4cj2Dm/HRjzIiQ9yOnYwdrm/xA1wDviLdOyJ8wdHkDLs4j9L5UhTdp9SiI7BziFUBT9w2GTnFSophiOjJmUAFkBhbar2BO9kcQh5L2USXZHIZ6oEsNZWpIMtUAWo+uVFUBkCxRdfZWag1GhtPT11prvZv8f+05H5oJPjRLPjyc4sMn1h8FfGbwyQQftv98TXy4l+fDlvDhm/DB5/jgf7d8aBQ+z/HB7/Ah3C59hg9hyQcvfPCBDg75EFo++AUfDoz44KkRIbR8WBvxwUsb/2E9tSC6OuDD29c7fPDCh/N5PoTEB8/atREfXgkfjrd8uH4DLpwLQz7cpbVjiQ/eI15iPjRDPpzlpEQhxfRTfPBLPpye4ENY8OEINFk+NAs+NP8aH/4ClyUkZR/++68AAAAASUVORK5CYII=)
+![词条洗炼石](https://s2.loli.net/2025/01/23/fGlL8xCwUctXamM.gif)
 
 ## 描述
 
