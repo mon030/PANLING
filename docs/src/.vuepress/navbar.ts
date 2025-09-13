@@ -19,7 +19,7 @@ export default navbar([
         text: "进阶指南",
         icon: "lightbulb",
         prefix: "advanced/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        children: ["dragontest", { text: "...", icon: "ellipsis", link: "" }],
       },
     ],
   },

@@ -9,7 +9,7 @@ bgImageStyle:
   background-attachment: fixed
 heroImage: /logo.svg
 heroText: 盘灵古域攻略站
-tagline: 盘灵古域WIKI&攻略站
+tagline: Minecraft RPG地图盘灵古域的WIKI&攻略站
 actions:
   - text: 新手教程 💡
     link: /guide/basic/start
@@ -56,7 +56,7 @@ features:
 
   - title: 服务器
     icon: solar:server-bold-duotone
-    details: 一个人玩觉得无聊?加入服务器一起玩吧[项目重构中]
+    details: 一个人玩觉得无聊?加入服务器一起玩吧
     link: https://servers.panling.link
 
   - title: 爱发电
