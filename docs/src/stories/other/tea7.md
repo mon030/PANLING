@@ -1,13 +1,13 @@
 ---
 title: 茶馆情报-远湖边游荡的神射手
 index: true
-icon: solar:shield-bold
+icon: lucide:bow-arrow
 editLink: false
 author: "泊浪道人"
 category:
   - 茶馆情报
-prev: false
-next: false
+prev: ./tea6
+next: ./tea8
 ---
 
 ## 说明

@@ -1,13 +1,13 @@
 ---
 title: 茶馆情报-森林中的女王
 index: true
-icon: solar:shield-bold
+icon: material-symbols:chess-queen
 editLink: false
 author: "泊浪道人"
 category:
   - 茶馆情报
-prev: false
-next: false
+prev: ./tea2
+next: ./tea4
 ---
 
 ## 说明

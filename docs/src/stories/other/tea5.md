@@ -1,13 +1,13 @@
 ---
 title: 茶馆情报-迷阵中的亡灵战士
 index: true
-icon: solar:shield-bold
+icon: game-icons:tiger-head
 editLink: false
 author: "泊浪道人"
 category:
   - 茶馆情报
-prev: false
-next: false
+prev: ./tea4
+next: ./tea6
 ---
 
 ## 说明

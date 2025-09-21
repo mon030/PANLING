@@ -7,7 +7,7 @@ author: "泊浪道人"
 category:
   - 茶馆情报
 prev: false
-next: false
+next: ./tea2
 ---
 
 ## 说明

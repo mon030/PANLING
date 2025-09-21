@@ -6,8 +6,8 @@ editLink: false
 author: "泊浪道人"
 category:
   - 茶馆情报
-prev: false
-next: false
+prev: ./tea1
+next: ./tea3
 ---
 
 ## 说明

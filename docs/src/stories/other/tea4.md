@@ -1,13 +1,13 @@
 ---
 title: 茶馆情报-马贼与马贼首领
 index: true
-icon: solar:shield-bold
+icon: tabler:horse
 editLink: false
 author: "泊浪道人"
 category:
   - 茶馆情报
-prev: false
-next: false
+prev: ./tea3
+next: ./tea5
 ---
 
 ## 说明

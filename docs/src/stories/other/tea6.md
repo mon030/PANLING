@@ -1,13 +1,13 @@
 ---
 title: 茶馆情报-沙漠中的凶神
 index: true
-icon: solar:shield-bold
+icon: uil:desert
 editLink: false
 author: "泊浪道人"
 category:
   - 茶馆情报
-prev: false
-next: false
+prev: ./tea5
+next: ./tea7
 ---
 
 ## 说明
