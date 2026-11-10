@@ -1,7 +1,7 @@
 ---
 title: 茶馆情报
 index: false
-icon: solar:notebook-bookmark-line-duotone
+icon: solar:tea-cup-bold-duotone
 editLink: false
 author: "Len"
 category:
