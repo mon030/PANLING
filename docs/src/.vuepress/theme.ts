@@ -16,8 +16,6 @@ export default hopeTheme({
   
   contributors: true,
 
-  iconAssets: "iconify",
-
   logo: "images/logo.png",
 
   docsRepo: "mon030/PANLING",
@@ -89,7 +87,6 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-    VPIcon: true,
 
     // 取消注释它们如果你需要 TeX 支持
     // markdownMath: {
@@ -108,9 +105,6 @@ export default hopeTheme({
      chartjs: true,
 
     // insert component easily
-
-    // 在启用之前安装 echarts
-     echarts: true,
 
     // 在启用之前安装 flowchart.ts
     // flowchart: true,
@@ -131,6 +125,10 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+    icon: {
+      assets: "iconify",
+    },
+
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
     comment: {
       provider: "Waline",
@@ -141,7 +139,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPBanner", "BiliBili", "VidStack", "VPCard"],
+      components: ["Badge", "VPBanner", "BiliBili", "VPCard"],
     },
 
     copyright: {
@@ -150,7 +148,7 @@ export default hopeTheme({
 
 	docsearch: {
      apiKey: "fd75bd85aa0cc409955522049ec69aa1",
-     indexName: "PANLINGWIKI_INDEX",
+     indices: ["PANLINGWIKI_INDEX"],
      appId: "BZOZK27JAL",
     },
 	//搜索插件更换
